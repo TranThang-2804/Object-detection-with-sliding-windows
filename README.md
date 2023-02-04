@@ -2,9 +2,6 @@
 
 # Project instruction:
 ## 1. install environment prequisites
-### pipenv is python package dependency management
-> run ```pip install pipenv```
-
 ### venv is python virtual environment
 > run ```pip install virtualenv```
 
@@ -24,6 +21,9 @@
 <img src="./readme images/Successful.png" alt="Alt text" title="Successful get into the venv">
 
 ## 4. Install python package
+### pipenv is python package dependency management
+> run ```pip install pipenv```
+
 > run ```pipenv install```
 
 ## 5. Run detection
