@@ -12,10 +12,10 @@ image = cv2.imread(args["image"])
 
 # ALGORITHM TUNNING
 # detection confidence acceptance
-confidence = 0.75
+confidence = 0.8
 
 # sliding window configuration
-windowStepSize = 32
+windowStepSize = 64
 windowMovingSpeed = 0.00001
 (winW, winH) = (256, 256)
 
